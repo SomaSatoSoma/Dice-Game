@@ -18,10 +18,10 @@ System.out.println("Hello, " + name + "!");
     }
     System.out.println("Total value: " + Total);
     if (Total > 7) {
-    System.out.println("You won!");
+    System.out.println(name + " won!");
 }
  else{
-    System.out.println("You lost!");
+    System.out.println(name + " lost!");
 }
 }
 }
